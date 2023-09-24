@@ -1,5 +1,6 @@
 #ignore data folder
 data/
-data/tweets
+data/tweets/
+.ipynb_checkpoints/
 *.csv
 *.DS_Store
