@@ -1,0 +1,5 @@
+#ignore data folder
+data/
+data/tweets
+*.csv
+*.DS_Store
